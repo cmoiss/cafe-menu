@@ -6,6 +6,8 @@ body {
 
 h1 {
   font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 15px;
 }
 
 h2 {
@@ -65,6 +67,8 @@ h1, h2 {
 footer {
   font-size: 14px;
 }
+
+
 
 a {
   color: black;
